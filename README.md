@@ -1,3 +1,2 @@
-# memes
-My memes
+# Memes
 These are my memes
